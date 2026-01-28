@@ -12,8 +12,8 @@ class Solution {
         int n = arr.size();
         d = d % n;
         
+        // Brute force method
         vector <int> temp;
-        
         for(int i = 0; i < d; i++){
             temp.push_back(arr[i]);
         }
