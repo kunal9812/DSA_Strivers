@@ -5,7 +5,6 @@ class Solution {
 
   public:
     int maxCandy(int height[], int n) {
-        // Your code goes here
         int left = 0, right = n-1;
         int max_area = 0;
         int curr_area = 0;
