@@ -1,5 +1,5 @@
 # DSA_Strivers
-Doin the Strivers A2Z DSA Course
+Doing the Strivers A2Z DSA Course
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
