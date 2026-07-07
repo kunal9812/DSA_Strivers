@@ -6,6 +6,7 @@ Doing the Strivers A2Z DSA Course
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kunal9812/DSA_Strivers/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kunal9812/DSA_Strivers/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -20,4 +21,8 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kunal9812/DSA_Strivers/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
