@@ -11,6 +11,7 @@ Doing the Strivers A2Z DSA Course
 | [0053-maximum-subarray](https://github.com/kunal9812/DSA_Strivers/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9812/DSA_Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kunal9812/DSA_Strivers/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kunal9812/DSA_Strivers/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -35,6 +36,7 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunal9812/DSA_Strivers/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/kunal9812/DSA_Strivers/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -58,4 +60,8 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9812/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kunal9812/DSA_Strivers/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
