@@ -9,6 +9,7 @@ Doing the Strivers A2Z DSA Course
 | [0001-two-sum](https://github.com/kunal9812/DSA_Strivers/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kunal9812/DSA_Strivers/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/kunal9812/DSA_Strivers/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/kunal9812/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9812/DSA_Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kunal9812/DSA_Strivers/tree/master/0128-longest-consecutive-sequence) |
@@ -37,6 +38,7 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunal9812/DSA_Strivers/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kunal9812/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kunal9812/DSA_Strivers/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -69,4 +71,8 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/kunal9812/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
