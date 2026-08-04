@@ -8,6 +8,7 @@ Doing the Strivers A2Z DSA Course
 | ------- |
 | [0001-two-sum](https://github.com/kunal9812/DSA_Strivers/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kunal9812/DSA_Strivers/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kunal9812/DSA_Strivers/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9812/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
@@ -78,9 +79,14 @@ Doing the Strivers A2Z DSA Course
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9812/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
