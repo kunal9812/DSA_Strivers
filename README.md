@@ -19,6 +19,7 @@ Doing the Strivers A2Z DSA Course
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9812/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -46,6 +47,7 @@ Doing the Strivers A2Z DSA Course
 | [0128-longest-consecutive-sequence](https://github.com/kunal9812/DSA_Strivers/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,4 +94,8 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
