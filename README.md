@@ -21,6 +21,7 @@ Doing the Strivers A2Z DSA Course
 | [0136-single-number](https://github.com/kunal9812/DSA_Strivers/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/kunal9812/DSA_Strivers/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kunal9812/DSA_Strivers/tree/master/0704-binary-search) |
@@ -70,6 +71,7 @@ Doing the Strivers A2Z DSA Course
 | [0053-maximum-subarray](https://github.com/kunal9812/DSA_Strivers/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kunal9812/DSA_Strivers/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunal9812/DSA_Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/kunal9812/DSA_Strivers/tree/master/0198-house-robber) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
