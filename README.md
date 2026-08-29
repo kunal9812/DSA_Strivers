@@ -24,6 +24,7 @@ Doing the Strivers A2Z DSA Course
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kunal9812/DSA_Strivers/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/kunal9812/DSA_Strivers/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kunal9812/DSA_Strivers/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -111,5 +112,6 @@ Doing the Strivers A2Z DSA Course
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kunal9812/DSA_Strivers/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
