@@ -13,6 +13,7 @@ Doing the Strivers A2Z DSA Course
 | [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kunal9812/DSA_Strivers/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kunal9812/DSA_Strivers/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/kunal9812/DSA_Strivers/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9812/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0088-merge-sorted-array) |
@@ -113,6 +114,7 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kunal9812/DSA_Strivers/tree/master/0066-plus-one) |
 ## Prefix Sum
 |  |
 | ------- |
