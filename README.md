@@ -115,10 +115,19 @@ Doing the Strivers A2Z DSA Course
 | ------- |
 | [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kunal9812/DSA_Strivers/tree/master/0066-plus-one) |
+| [1492-the-kth-factor-of-n](https://github.com/kunal9812/DSA_Strivers/tree/master/1492-the-kth-factor-of-n) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kunal9812/DSA_Strivers/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1480-running-sum-of-1d-array) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/kunal9812/DSA_Strivers/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/kunal9812/DSA_Strivers/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
