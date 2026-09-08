@@ -130,4 +130,8 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/kunal9812/DSA_Strivers/tree/master/1492-the-kth-factor-of-n) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kunal9812/DSA_Strivers/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
