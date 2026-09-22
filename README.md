@@ -33,6 +33,7 @@ Doing the Strivers A2Z DSA Course
 | [0238-product-of-array-except-self](https://github.com/kunal9812/DSA_Strivers/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kunal9812/DSA_Strivers/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9812/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -48,6 +49,7 @@ Doing the Strivers A2Z DSA Course
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunal9812/DSA_Strivers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9812/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -57,6 +59,7 @@ Doing the Strivers A2Z DSA Course
 | [0088-merge-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
