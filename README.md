@@ -7,6 +7,7 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunal9812/DSA_Strivers/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kunal9812/DSA_Strivers/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kunal9812/DSA_Strivers/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kunal9812/DSA_Strivers/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0033-search-in-rotated-sorted-array) |
@@ -44,6 +45,7 @@ Doing the Strivers A2Z DSA Course
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kunal9812/DSA_Strivers/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kunal9812/DSA_Strivers/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kunal9812/DSA_Strivers/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
@@ -161,4 +163,8 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunal9812/DSA_Strivers/tree/master/0104-maximum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kunal9812/DSA_Strivers/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
