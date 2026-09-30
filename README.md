@@ -32,6 +32,7 @@ Doing the Strivers A2Z DSA Course
 | [0198-house-robber](https://github.com/kunal9812/DSA_Strivers/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kunal9812/DSA_Strivers/tree/master/0238-product-of-array-except-self) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kunal9812/DSA_Strivers/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +62,7 @@ Doing the Strivers A2Z DSA Course
 | [0088-merge-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -71,6 +73,7 @@ Doing the Strivers A2Z DSA Course
 | [0128-longest-consecutive-sequence](https://github.com/kunal9812/DSA_Strivers/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
