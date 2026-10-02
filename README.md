@@ -32,6 +32,7 @@ Doing the Strivers A2Z DSA Course
 | [0198-house-robber](https://github.com/kunal9812/DSA_Strivers/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kunal9812/DSA_Strivers/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunal9812/DSA_Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kunal9812/DSA_Strivers/tree/master/0704-binary-search) |
@@ -80,6 +81,7 @@ Doing the Strivers A2Z DSA Course
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunal9812/DSA_Strivers/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Doing the Strivers A2Z DSA Course
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunal9812/DSA_Strivers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/kunal9812/DSA_Strivers/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -122,6 +125,7 @@ Doing the Strivers A2Z DSA Course
 | [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kunal9812/DSA_Strivers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9812/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
