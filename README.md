@@ -18,6 +18,7 @@ Doing the Strivers A2Z DSA Course
 | [0054-spiral-matrix](https://github.com/kunal9812/DSA_Strivers/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kunal9812/DSA_Strivers/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9812/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kunal9812/DSA_Strivers/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kunal9812/DSA_Strivers/tree/master/0118-pascals-triangle) |
@@ -113,6 +114,7 @@ Doing the Strivers A2Z DSA Course
 | [0033-search-in-rotated-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunal9812/DSA_Strivers/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/kunal9812/DSA_Strivers/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kunal9812/DSA_Strivers/tree/master/0162-find-peak-element) |
@@ -125,6 +127,7 @@ Doing the Strivers A2Z DSA Course
 | [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kunal9812/DSA_Strivers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kunal9812/DSA_Strivers/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kunal9812/DSA_Strivers/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
