@@ -40,6 +40,7 @@ Doing the Strivers A2Z DSA Course
 | [0704-binary-search](https://github.com/kunal9812/DSA_Strivers/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kunal9812/DSA_Strivers/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunal9812/DSA_Strivers/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kunal9812/DSA_Strivers/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1480-running-sum-of-1d-array) |
@@ -130,6 +131,7 @@ Doing the Strivers A2Z DSA Course
 | [0240-search-a-2d-matrix-ii](https://github.com/kunal9812/DSA_Strivers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/kunal9812/DSA_Strivers/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kunal9812/DSA_Strivers/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunal9812/DSA_Strivers/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kunal9812/DSA_Strivers/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Matrix
 |  |
