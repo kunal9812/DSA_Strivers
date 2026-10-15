@@ -147,6 +147,7 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunal9812/DSA_Strivers/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kunal9812/DSA_Strivers/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kunal9812/DSA_Strivers/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kunal9812/DSA_Strivers/tree/master/0069-sqrtx) |
 | [1492-the-kth-factor-of-n](https://github.com/kunal9812/DSA_Strivers/tree/master/1492-the-kth-factor-of-n) |
@@ -204,4 +205,8 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kunal9812/DSA_Strivers/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kunal9812/DSA_Strivers/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
