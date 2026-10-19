@@ -194,6 +194,7 @@ Doing the Strivers A2Z DSA Course
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kunal9812/DSA_Strivers/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kunal9812/DSA_Strivers/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -202,6 +203,7 @@ Doing the Strivers A2Z DSA Course
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kunal9812/DSA_Strivers/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kunal9812/DSA_Strivers/tree/master/0242-valid-anagram) |
 ## Newton's Method
 |  |
@@ -211,4 +213,8 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kunal9812/DSA_Strivers/tree/master/0050-powx-n) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kunal9812/DSA_Strivers/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
