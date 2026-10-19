@@ -170,6 +170,7 @@ Doing the Strivers A2Z DSA Course
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kunal9812/DSA_Strivers/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kunal9812/DSA_Strivers/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Tree
 |  |
@@ -212,6 +213,7 @@ Doing the Strivers A2Z DSA Course
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kunal9812/DSA_Strivers/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kunal9812/DSA_Strivers/tree/master/0050-powx-n) |
 ## Bracket Sequences
 |  |
