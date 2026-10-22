@@ -153,6 +153,7 @@ Doing the Strivers A2Z DSA Course
 | [0066-plus-one](https://github.com/kunal9812/DSA_Strivers/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kunal9812/DSA_Strivers/tree/master/0069-sqrtx) |
 | [1492-the-kth-factor-of-n](https://github.com/kunal9812/DSA_Strivers/tree/master/1492-the-kth-factor-of-n) |
+| [1903-largest-odd-number-in-string](https://github.com/kunal9812/DSA_Strivers/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Doing the Strivers A2Z DSA Course
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kunal9812/DSA_Strivers/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/kunal9812/DSA_Strivers/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Doing the Strivers A2Z DSA Course
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunal9812/DSA_Strivers/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kunal9812/DSA_Strivers/tree/master/0242-valid-anagram) |
+| [1903-largest-odd-number-in-string](https://github.com/kunal9812/DSA_Strivers/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
 | ------- |
