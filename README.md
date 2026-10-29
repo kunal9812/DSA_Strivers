@@ -59,6 +59,7 @@ Doing the Strivers A2Z DSA Course
 | [0075-sort-colors](https://github.com/kunal9812/DSA_Strivers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunal9812/DSA_Strivers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0443-string-compression](https://github.com/kunal9812/DSA_Strivers/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunal9812/DSA_Strivers/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9812/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -208,6 +209,7 @@ Doing the Strivers A2Z DSA Course
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunal9812/DSA_Strivers/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kunal9812/DSA_Strivers/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/kunal9812/DSA_Strivers/tree/master/0443-string-compression) |
 | [1903-largest-odd-number-in-string](https://github.com/kunal9812/DSA_Strivers/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
