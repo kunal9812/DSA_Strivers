@@ -44,6 +44,7 @@ Doing the Strivers A2Z DSA Course
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kunal9812/DSA_Strivers/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kunal9812/DSA_Strivers/tree/master/1480-running-sum-of-1d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kunal9812/DSA_Strivers/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunal9812/DSA_Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -211,6 +212,7 @@ Doing the Strivers A2Z DSA Course
 | [0242-valid-anagram](https://github.com/kunal9812/DSA_Strivers/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/kunal9812/DSA_Strivers/tree/master/0443-string-compression) |
 | [1903-largest-odd-number-in-string](https://github.com/kunal9812/DSA_Strivers/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kunal9812/DSA_Strivers/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Newton's Method
 |  |
 | ------- |
